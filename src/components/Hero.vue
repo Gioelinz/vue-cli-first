@@ -13,5 +13,9 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+img {
+  border-radius: 20px;
+  filter: sepia(0.5);
+}
 </style>
